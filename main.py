@@ -1,5 +1,5 @@
 """
-Team 10
+Team 9
 One-Shot Learning
 
 Used to train the network
@@ -35,7 +35,7 @@ def main():
                                                                 final_momentum=momentum,
                                                                 momentum_slope=momentum_slope,
                                                                 evaluate_each=evaluate_each, 
-                                                                model_name='team10')
+                                                                model_name='team9')
     if validation_accuracy == 0:
         evaluation_accuracy = 0
     else:
