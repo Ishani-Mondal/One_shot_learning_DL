@@ -1,5 +1,5 @@
 '''
-Team 10
+Team 9
 One-Shot Learning
 
 Data Loader of Omniglot dataset for training and evaluation
