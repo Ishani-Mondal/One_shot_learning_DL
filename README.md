@@ -28,7 +28,7 @@ Instructions to run the KNN Model:
 ---2. python knn.py <dataset_path>
 
 Instructions to train and test the siamese Network Model:
-----python main.py 
+---python main.py 
 
 
 
