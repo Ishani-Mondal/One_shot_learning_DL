@@ -24,11 +24,11 @@ Pre-requisites:
 4. OpenCV
 
 Instructions to run the KNN Model:
----1. python create_dataset_for_knn.py
----2. python knn.py <dataset_path>
+1. python create_dataset_for_knn.py
+2. python knn.py <dataset_path>
 
 Instructions to train and test the siamese Network Model:
----python main.py 
+python main.py 
 
 
 
